@@ -1,6 +1,7 @@
 ---
 
 # 🐍 Sentiment Analysis API
+<img width="1536" height="1024" alt="API Architecture with Python, FastAPI, Docker" src="https://github.com/user-attachments/assets/93dbd6e1-bc04-4185-93d6-8a8184ef065c" />
 
 A **Python microservice** for **text sentiment classification**, built with **FastAPI** and powered by **Hugging Face Transformers**. The service is containerized with **Docker** for easy deployment and tested with **Postman**.
 
